@@ -22,15 +22,10 @@ Hello! I’m Yao Zhang (张瑶). I am currently a lecturer at the School of Stat
 Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, advised by Prof. Zhenglu Yang. From 2021 to 2022, I was a visiting student at the NExT Research Centre at the National University of Singapore (NUS), where I was mentored by Dr. Wenqiang Lei and Prof. Chua Tat-Seng.
 
 My primary research interests lie in the area of Statistics and Data Science, with a focus on the following topics:
+Knowledge Reasoning; 
+Medical NLP; 
+Explainable AI (XAI) & Causal Inference.
 
-Knowledge Reasoning
-My research is dedicated to exploring how to perform efficient logical reasoning and relational inference using knowledge graphs. [1][2] I focus on developing novel algorithms to address the common issues of sparsity and incompleteness in knowledge graphs, thereby enhancing the performance and accuracy of downstream tasks such as intelligent question answering and recommendation systems. [2]
-
-Medical Natural Language Processing (NLP)
-I specialize in applying natural language processing techniques to automatically extract critical information from vast amounts of unstructured medical texts, such as electronic health records and medical literature. [3][4] My goal is to build models that can comprehend complex medical contexts to support clinical decision-making, assist in diagnoses, and generate personalized treatment plans, ultimately alleviating the burden on healthcare professionals. [5][6]
-
-Explainable AI (XAI) & Causal Inference
-My research explores how to enhance the transparency and interpretability of complex models, especially deep learning models in high-stakes medical applications. By integrating causal inference theories, I aim to uncover causal relationships within data, rather than mere correlations, to provide reliable and logical explanations for the model's decision-making process.
 
 
 # 🔥 News
