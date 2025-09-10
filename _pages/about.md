@@ -17,9 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! I’m Yao Zhang (张瑶). I am currently a lecturer at the School of Statistics and Data Science, Nankai University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, advised by Prof. Zhenglu Yang. From 2021 to 2022, I was a visiting student at the NExT Research Centre at the National University of Singapore (NUS), where I was mentored by Dr. Wenqiang Lei and Prof. Chua Tat-Seng.
+
+My primary research interests lie in the area of Statistics and Data Science, with a focus on the following topics:
+
+Knowledge Reasoning
+My research is dedicated to exploring how to perform efficient logical reasoning and relational inference using knowledge graphs. [1][2] I focus on developing novel algorithms to address the common issues of sparsity and incompleteness in knowledge graphs, thereby enhancing the performance and accuracy of downstream tasks such as intelligent question answering and recommendation systems. [2]
+
+Medical Natural Language Processing (NLP)
+I specialize in applying natural language processing techniques to automatically extract critical information from vast amounts of unstructured medical texts, such as electronic health records and medical literature. [3][4] My goal is to build models that can comprehend complex medical contexts to support clinical decision-making, assist in diagnoses, and generate personalized treatment plans, ultimately alleviating the burden on healthcare professionals. [5][6]
+
+Explainable AI (XAI) & Causal Inference
+My research explores how to enhance the transparency and interpretability of complex models, especially deep learning models in high-stakes medical applications. By integrating causal inference theories, I aim to uncover causal relationships within data, rather than mere correlations, to provide reliable and logical explanations for the model's decision-making process.
 
 
 # 🔥 News
