@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Yao Zhang (张瑶). I am currently a lecturer at the School of Statistics and Data Science, Nankai University.
+Hello! I’m **Yao** **Zhang** (张瑶). I am currently a lecturer at the School of Statistics and Data Science, Nankai University.
 
-Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, advised by Prof. Zhenglu Yang. From 2021 to 2022, I was a visiting student at the NExT Research Centre at the National University of Singapore (NUS), where I was mentored by Dr. Wenqiang Lei and Prof. Chua Tat-Seng.
+Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, advised by [Prof. Zhenglu Yang](https://scholar.google.com/citations?user=u5LzNHcAAAAJ&hl=zh-CN). From 2021 to 2022, I was a visiting student at the [NExT](https://www.nextcenter.org/) Research Centre at the National University of Singapore (NUS), where I was mentored by [Prof. Wenqiang Lei](https://scholar.google.com/citations?user=qexdxuEAAAAJ&hl=zh-CN) and [Prof. Chua Tat-Seng](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN).
 
 My primary research interests lie in the area of Statistics and Data Science, with a focus on the following topics:
 Knowledge Reasoning; 
