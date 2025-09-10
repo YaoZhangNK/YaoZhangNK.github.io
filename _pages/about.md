@@ -40,8 +40,6 @@ Safe AI.
 
 Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work introduces a novel method that leverages temporal object motion to guide large vision-language models in generating more consistent and diverse video question-answer-distractors directly from video.
 </div>
 </div>
 
