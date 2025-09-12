@@ -84,12 +84,33 @@ Wenjian Ding, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang#
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/ding24emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/dingemnlp24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring Union and Intersection of Visual Regions for Generating Questions, Answers, and Distractors](https://aclanthology.org/2024.emnlp-main.88/)
 
 Wenjian Ding, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang#
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/qin23emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Well begun is half done: Generator-agnostic knowledge pre-selection for knowledge-grounded dialogue](https://aclanthology.org/2023.emnlp-main.285/)
+
+Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/qin23emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Well begun is half done: Generator-agnostic knowledge pre-selection for knowledge-grounded dialogue](https://aclanthology.org/2023.emnlp-main.285/)
+
+Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
 
 </div>
 </div>
