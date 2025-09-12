@@ -66,13 +66,36 @@ Yongjie Xiao, Hongru Liang, Peixin Qin, **Yao Zhang**, Wenqiang Lei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/bao25dasfaa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dasfaa2025.github.io/paper/research/research_896_paper.pdf)
+[Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought](https://dasfaa2025.github.io/#/program/research#short-papers)
 
 Zhongtian Bao, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/ding24coling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can we learn question, answer, and distractors all from an image? a new task for multiple-choice visual question answering](https://aclanthology.org/2024.lrec-main.254/)
+
+Wenjian Ding, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang#
+
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/ding24emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Union and Intersection of Visual Regions for Generating Questions, Answers, and Distractors](https://aclanthology.org/2024.emnlp-main.88/)
+
+Wenjian Ding, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang#
+
+</div>
+</div>
+
+
+
+
 
 
