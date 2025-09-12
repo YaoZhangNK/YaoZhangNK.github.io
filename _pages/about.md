@@ -33,7 +33,7 @@ Safe AI.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -43,7 +43,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -53,7 +53,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -63,7 +63,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -73,7 +73,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -83,7 +83,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
@@ -93,7 +93,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
