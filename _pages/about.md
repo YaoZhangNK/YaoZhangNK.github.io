@@ -94,7 +94,7 @@ Wenjian Ding, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/qin23emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/qin23emnlp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Well begun is half done: Generator-agnostic knowledge pre-selection for knowledge-grounded dialogue](https://aclanthology.org/2023.emnlp-main.285/)
@@ -105,16 +105,45 @@ Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/qin23emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/zhang22acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Well begun is half done: Generator-agnostic knowledge pre-selection for knowledge-grounded dialogue](https://aclanthology.org/2023.emnlp-main.285/)
+[Fact-Tree Reasoning for N-ary Question Answering over Knowledge Graphs](https://aclanthology.org/2022.findings-acl.66/)
 
-Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
+**Yao Zhang**, Peiyao Li, Hongru Liang, Adam Jatowt, Zhenglu Yang
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/lei22sigir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy](https://dl.acm.org/doi/10.1145/3477495.3532001)
+
+Wenqiang Lei*, **Yao Zhang***, Feifan Song, Hongru Liang, Jiaxin Mao, Jiancheng Lv, Zhenglu Yang, Tat-Seng Chua
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/huibin22acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension](https://aclanthology.org/2022.acl-long.84/)
+
+Huibin Zhang, Zhengkun Zhang, **Yao Zhang**, Jun Wang, Yufan Li, Ning Jiang, Xin Wei, Zhenglu Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/zhang21emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GMH: A General Multi-hop Reasoning Model for KG Completion](https://aclanthology.org/2021.emnlp-main.276/)
+
+**Yao Zhang**, Hongru Liang, Adam Jatowt, Wenqiang Lei, Xin Wei, Ning Jiang, Zhenglu Yang
+
+</div>
+</div>
 
 
 
