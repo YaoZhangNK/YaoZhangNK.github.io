@@ -25,7 +25,14 @@ My primary research interests lie in the area of Statistics and Data Science, wi
 Knowledge Reasoning; 
 Medical NLP; 
 Safe AI.
+<span style="color:red;">
+🚀 **课题组招新啦！**
 
+我们正在寻找对科研充满热情的你，期待与你并肩前行，共同攻克学术难题。
+
+📬 欢迎将你的简历和想法发送至：**yaozhang@nankai.edu.cn**
+
+</span>
 
 
 # 🔥 News
