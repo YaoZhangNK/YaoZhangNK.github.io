@@ -43,7 +43,7 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/qin25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Listening to Patients: A Framework of Detecting and Mitigating Patient Misreport for Medical Dialogue Generation](https://aclanthology.org/2025.findings-acl.135/)
@@ -53,7 +53,7 @@ Lang Qin, **Yao Zhang**#, Hongru Liang, Adam Jatowt, Zhenglu Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/xiao25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SCOP: Evaluating the Comprehension Process of Large Language Models from a Cognitive View](https://aclanthology.org/2025.acl-long.852/)
@@ -63,12 +63,12 @@ Yongjie Xiao, Hongru Liang, Peixin Qin, **Yao Zhang**, Wenqiang Lei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/bao25dasfaa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dasfaa2025.github.io/paper/research/research_896_paper.pdf)
 
-Zhongtian Bao, Yao Zhang, Jun Wang, Adam Jatowt, and Zhenglu Yang
+Zhongtian Bao, **Yao Zhang**, Jun Wang, Adam Jatowt, and Zhenglu Yang
 
 </div>
 </div>
