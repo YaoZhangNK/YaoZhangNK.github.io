@@ -105,15 +105,6 @@ Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/zhang22acl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fact-Tree Reasoning for N-ary Question Answering over Knowledge Graphs](https://aclanthology.org/2022.findings-acl.66/)
-
-**Yao Zhang**, Peiyao Li, Hongru Liang, Adam Jatowt, Zhenglu Yang
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/lei22sigir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,6 +115,17 @@ Wenqiang Lei*, **Yao Zhang***, Feifan Song, Hongru Liang, Jiaxin Mao, Jiancheng 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/zhang22acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fact-Tree Reasoning for N-ary Question Answering over Knowledge Graphs](https://aclanthology.org/2022.findings-acl.66/)
+
+**Yao Zhang**, Peiyao Li, Hongru Liang, Adam Jatowt, Zhenglu Yang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/huibin22acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,6 +146,17 @@ Huibin Zhang, Zhengkun Zhang, **Yao Zhang**, Jun Wang, Yufan Li, Ning Jiang, Xin
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ad Hoc Networks 2021</div><img src='images/zhang21adhoc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TRFR: A ternary relation link prediction framework on Knowledge graphs](https://www.sciencedirect.com/science/article/abs/pii/S1570870520307319)
+
+**Yao Zhang**, Hengpeng Xu, Xu Zhang, Xingxing Wu, Zhenglu Yang
+
+</div>
+</div>
+
 
 
 
