@@ -46,19 +46,9 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions](https://aclanthology.org/2025.findings-acl.135/)
+[Listening to Patients: A Framework of Detecting and Mitigating Patient Misreport for Medical Dialogue Generation](https://aclanthology.org/2025.findings-acl.135/)
 
-Lang Qin, Yao Zhang#, Hongru Liang, Adam Jatowt, Zhenglu Yang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
-
-Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
+Lang Qin, **Yao Zhang**#, Hongru Liang, Adam Jatowt, Zhenglu Yang
 
 </div>
 </div>
@@ -66,40 +56,22 @@ Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
+[SCOP: Evaluating the Comprehension Process of Large Language Models from a Cognitive View](https://aclanthology.org/2025.acl-long.852/)
 
-Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
+Yongjie Xiao, Hongru Liang, Peixin Qin, **Yao Zhang**, Wenqiang Lei
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
+[Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dasfaa2025.github.io/paper/research/research_896_paper.pdf)
 
-Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
-
-Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
+Zhongtian Bao, Yao Zhang, Jun Wang, Adam Jatowt, and Zhenglu Yang
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ding25acl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Generating Questions, Answers, and Distractors for Videos: Exploring Semantic Uncertainty of Object Motions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.findings-acl.376/))
-
-Wenjian Ding, **Yao Zhang**#, Jun Wang, Adam Jatowt, Zhenglu Yang#
-
 </div>
 </div>
 
