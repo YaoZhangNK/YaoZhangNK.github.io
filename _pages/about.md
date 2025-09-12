@@ -165,7 +165,25 @@ Huibin Zhang, Zhengkun Zhang, **Yao Zhang**, Jun Wang, Yufan Li, Ning Jiang, Xin
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/zhang21aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16598)
+
+**Yao Zhang**, Xu Zhang, Jun Wang, Hongru Liang, Wenqiang Lei, Zhe Sun, Adam Jatowt, Zhenglu Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2019</div><img src='images/xu19dasfaa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatiotemporal-aware region recommendation with deep metric learning](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_73)
+
+Hengpeng Xu, **Yao Zhang**, Jinmao Wei, Zhenglu Yang, Jun Wang
+
+</div>
+</div>
 
 
 
