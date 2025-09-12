@@ -39,15 +39,19 @@ Safe AI.
 
 <div style="border: 1px solid #4a90e2; border-radius: 8px; margin: 20px 0;">
   <div style="background-color: #4a90e2; color: white; padding: 10px; font-weight: bold; border-radius: 7px 7px 0 0;">
-    研究生招生 | [您的研究方向] 课题组
+    🚀 **课题组招新啦！**
   </div>
   <div style="padding: 15px;">
-    我的课题组正在寻找新的成员，期待与你并肩前行，攻克学术难题。<br><br>
-    欢迎将你的简历和想法发送至：<b>[您的联系方式]</b>
+    我们正在寻找对科研充满热情的你，期待与你并肩前行，共同攻克学术难题!<br><br>
+    📬 欢迎将你的简历和想法发送至：**yaozhang@nankai.edu.cn**
   </div>
 </div>
 
-
+<div style="background-color: #f5f5f5; border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
+🚀 <b>[您的研究方向] 课题组招新！</b><br><br>
+我们正在寻找对科研充满热情的你，期待与你并肩前行，共同攻克学术难题。<br><br>
+📬 欢迎将你的简历和想法发送至：<b>[您的联系方式]</b>
+</div>
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉🎉 Three papers are accepted by ACL 2025. 
