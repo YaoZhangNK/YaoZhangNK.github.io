@@ -24,13 +24,13 @@ Before that, I received my Ph.D. (2022) and B.S. (2017) from Nankai University, 
 My primary research interests lie in the area of Statistics and Data Science, with a focus on the following topics:
 <br>
 **Knowledge-Driven Complex Reasoning**
-My research focuses on building intelligent systems capable of deep, multi-step reasoning. My previous work centered on enabling complex logical reasoning over structured knowledge by designing novel representation and reasoning frameworks. Looking forward, I aim to extend these capabilities from idealized settings to noisy, real-world information, exploring how models can perform self-correction and dynamic evolution to address more complex, open-domain challenges.
+My research focuses on deep, multi-step reasoning. Building on foundational work in logical reasoning over structured knowledge, I now investigate how models can perform self-correction and dynamic evolution to address noisy, open-domain challenges.
 
 **Trustworthy AI for Improving Doctor-Patient Communication**
-I am dedicated to building trustworthy AI systems to enhance the quality and efficiency of communication in healthcare. Drawing on my experience with robust interactive systems, my work in medical NLP focuses on understanding and navigating the ambiguities and uncertainties inherent in doctor-patient dialogues. My ultimate goal is to develop AI tools that accurately capture patient intent and assist physicians, thereby fostering clearer, more efficient, and empathetic communication to strengthen the doctor-patient relationship.
+My research in trustworthy AI aims to improve doctor-patient communication via medical NLP. I develop tools to navigate the ambiguities of clinical dialogues and accurately capture patient intent, fostering clearer and more empathetic interactions to strengthen the therapeutic relationship.
 
 **Controllability in Multimodal Generation**
-My research focuses on the controllability of multimodal generation, enabling AI to not only understand multimodal information but also generate content based on precise instructions. I have previously explored guiding models to produce structured and diverse content from images and videos, investigating their internal processes from a cognitive perspective to achieve deeper control. Moving forward, I aim to delve into fine-grained control over the style, logic, and factual accuracy of generated content, with the goal of creating intelligent agents that act as an extension of human creativity and serve as reliable partners in fields such as education and design.
+My research focuses on achieving fine-grained control in multimodal generation. I aim for precise command over the style, logic, and factuality of outputs, building on methods that generate structured content from visual data to create reliable AI partners for creative and educational applications.
 <br>
 
 
