@@ -118,7 +118,7 @@ Lang Qin∗,**Yao Zhang**#, Hongru Liang, Jun Wang, and Zhenglu Yang#
 
 [Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy](https://dl.acm.org/doi/10.1145/3477495.3532001)
 
-Wenqiang Lei*, **Yao Zhang***, Feifan Song, Hongru Liang, Jiaxin Mao, Jiancheng Lv, Zhenglu Yang, Tat-Seng Chua
+Wenqiang Lei\*, **Yao Zhang**\*, Feifan Song, Hongru Liang, Jiaxin Mao, Jiancheng Lv, Zhenglu Yang, Tat-Seng Chua
 
 </div>
 </div>
